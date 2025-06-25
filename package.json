@@ -1,0 +1,20 @@
+{
+  "name": "ci-test",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "description": "CI/CD practice with Jenkins pipelines, Git integration, and automation scripts.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nafija-pinky/jenkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nafija-pinky/jenkins/issues"
+  },
+  "homepage": "https://github.com/Nafija-pinky/jenkins#readme"
+}
